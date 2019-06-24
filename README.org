@@ -1,0 +1,112 @@
+* Data Science Capstone
+  - Course: Data Science Capstone - COMP 4449 1
+  - Class time: 04:00 PM  05:50 PM  |Engineering & Computer Science | Room ???
+  - Instructor: Pooran Singh Negi [[https://sites.google.com/site/poorannegi/][webpage]]
+  - Office: 470
+  - Office Hours: M, Wed,  2.30 p.m. - 4.15 p.m. Email for 1-on-1 help.
+   
+** Books optional
+   - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  by Wes McKinney. It is available online from [[https://library.du.edu/][library]]
+*** other books     
+   - [[http://greenteapress.com/thinkstats2/html/index.html][Think Stats: Exploratory Data Analysis in Python]]
+   -[[http://greenteapress.com/wp/think-bayes/][ Think Bayes]]  
+   - [[http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/][Probabilistic Programming & Bayesian Methods for Hackers]]
+** optional material
+
+**** Web framework
+- [[https://www.youtube.com/watch?v=sea2K4AuPOk][Dash - A New Framework for Building User Interfaces for Technical Computing | SciPy 2017 | Chris Par]]
+
+   
+**** open source data tools  
+ - [[https://pydata.org/][PyData]]    
+
+
+* Course Description
+  
+*This syllabus is subject to change at the discretion of the instructor*
+
+Students identify and fill a demand for an innovative data science product, such as a data base tool, analytical software, or domain specific analysis (life science, social sciences).
+The product is defined, implemented, documented, tested, and presented by the student or student team with the instructor and other stakeholders acting
+as a project supervisors to verify that goals are met through the 10-week development process
+Focus will also be on best software engineering practices and reproducible research.
+
+** syllabus
+- Students progress will be discussed every week  in the  class as per assigned/agreed work in the project.
+
+- Answer/help students on their project
+
+- Informal discussion about
+
+
+
+* Grading
+  There will be a final project and project presentation.
+
+One has to do  a *project*  to full fill course requirements.
+There will be a final presentation of the work done during current quarter.
+You will be required to  submit a final report.
+
+** [[./project_presentation.org][project presentation grading  rubric]]
+** [[./project_rubric.org][final project report grading rubric]]
+
+** Dates
+
+|---------------------------------------------------------------------------------------------------------+-----|
+| pre presentation, ??? Aug                                                                                |     |
+|---------------------------------------------------------------------------------------------------------+-----|
+| final project presentation with live demo 15 minutes, ??? August in class                                | 30% |
+|---------------------------------------------------------------------------------------------------------+-----|
+| final project report, due ??? August, please refer to above final report format for submission guideline | 70% |
+|---------------------------------------------------------------------------------------------------------+-----|
+|                                                                                                         |     |
+
+** Final course grading rubric
+
+grade range [('A', >=95), ('A_minus', >=90), ('B_plus', >=85), ('B', >=80), ('B_minus', >=75), ('C_plus', >=70), ('C', >=65), ('C_minus', >=60),
+ ('D_plus', >=55), ('D', >=50), ('D_minus', >=45),  ('F', < 45)])
+
+
+*Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html][Honor Yourself, Honor the Code]]*
+
+
+* Projects ideas
+  If you not doing to an internship or independent study then identified a project for yourself.
+  Here are some ideas for capstone project. Dash board front end is also required for any capstone project.
+
+ - Fake news detector. Initial data can be obtained from  [[https://www.kaggle.com/mrisdal/fake-news][Getting Real about Fake News]].
+   Once the model is build, use python and flask and pass an URL of news site in a page and predict it is fake or not. Once has to do webscrapping etc to extract the content from webpage.
+   + [[https://github.com/KaiDMML/FakeNewsNet][ASU dataset for fake news detection research]]
+
+ - Human Trafficking project at DU
+
+ - Predicting stock price based on current news and past trend
+   + [[https://www.stat.berkeley.edu/~aldous/Research/Ugrad/chen_USA.pdf][Predicting Stock Prices from News Articles]]
+   + [[https://arxiv.org/pdf/1610.09225.pdf][Sentiment Analysis of Twitter Data for Predicting Stock Market Movements]]
+
+ - Analyzing video content(describing video)
+
+ - [[https://www.kaggle.com/competitions][Open kaggle competition]]
+
+ - [[https://www.drivendata.org/competitions/][driven data]]  
+
+* Software
+** Python
+- google colab or Binder hub 
+- [[https://www.anaconda.com/download/][Anaconda for Python 3.6 data science platform. ]]
+See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing Anaconda, Jupyter Notebook]]. 
+- Install any project specific libraries. Let me know if you need help.
+*** Python learning resources
+   - [[https://try.jupyter.org/][try python notebook online without installing anything]]
+   - [[http://pythontutor.com/live.html#mode%3Dedit][Runs and visualizes your python code]]
+   - [[https://docs.python.org/3/tutorial/index.html][The Python Tutorial]]  
+*** data analysis tools in python
+    - [[https://pandas.pydata.org/][pandas]]
+
+
+* Course Activity
+| Date              | Reading/Coding Assignments | class activity                                 |
+|-------------------+----------------------------+------------------------------------------------|
+|-------------------+----------------------------+------------------------------------------------|
+| 24  June          |                            | Discussion of possible pojects and expectation |
+|-------------------+----------------------------+------------------------------------------------|
+
