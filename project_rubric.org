@@ -26,9 +26,9 @@ You can use word doc too.
 
 4(1 point)- Dataset description.
 
-5(4 point)- Experiment detail. Plot of loss, accuracy, visualization and their explanation.
+5(4 point)- Experiment detail. Exploratory data analysis, plot of loss, accuracy, visualization and their explanation.
 
-6(2 point)- Error analysis. Can you explain where you model/visualization is not working properly and why?
+6(2 point)- Error analysis. Can you explain where your model/visualization is not working properly and why?
 
 7(1 point)- Conclusion. Your overall take on the problem and solution and any thing you would like to explore further.
 
