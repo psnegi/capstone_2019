@@ -35,7 +35,7 @@ Focus will also be on best software engineering practices and reproducible resea
 
 - Answer/help students on their project
 
-- Informal discussion about
+- Informal discussion about some topics
 
 
 
@@ -104,9 +104,9 @@ See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing A
 
 
 * Course Activity
-| Date              | Reading/Coding Assignments | class activity                                 |
-|-------------------+----------------------------+------------------------------------------------|
-|-------------------+----------------------------+------------------------------------------------|
-| 24  June          |                            | Discussion of possible pojects and expectation |
-|-------------------+----------------------------+------------------------------------------------|
-
+| Date                                                                               | Reading/Coding Assignments | class activity                                 |
+|------------------------------------------------------------------------------------+----------------------------+------------------------------------------------|
+|------------------------------------------------------------------------------------+----------------------------+------------------------------------------------|
+| 24  June                                                                           |                            | Discussion of possible pojects and expectation |
+|------------------------------------------------------------------------------------+----------------------------+------------------------------------------------|
+| Throughout quarter  Helping student and some informal overview to deep learning and keras. |                            |                                                |
