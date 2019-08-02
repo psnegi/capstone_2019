@@ -1,7 +1,7 @@
 * Project Report
 
 
-Project requires submission of  .ipynb notebook  file/ python code  and a compiled report pdf/doc file in Github and Canvas.
+Project requires submission of  *.ipynb notebook  file/ python code*  and a compiled *report pdf/doc* file in *Github and Canvas*.
 Final pdf file, should read like a data driven story/scientific study (data science). This is really important if you want to publish you story as 
 blog in the web. Check any research paper for over all content organization.
 
