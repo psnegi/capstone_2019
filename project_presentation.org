@@ -1,0 +1,34 @@
+* Project presentation Guideline
+
+*Please follow this rubric when creating your sildes*
+
+A 12 -15 slide presentation must contain following sections.*
+*I can look at presentation slides  pre presentation slides on (13 th August, Not graded).
+Final capstone project presentation(15 minutes, 15 th August)*
+
+** Capstone project research Questions (1 points)
+  What real world problem you are trying to solve. *Can you explain it using some use case scenario*.
+  What is the usefulness/value of the project.
+
+** Capstone project data collection slide (1 points)
+  How/why  dataset was collected and describe the meta data of your dataset. 
+
+
+**  Data munging/Data wrangling and statistical summary (3 points)
+ - Data cleanup,
+ - summary statistics and interpretation,
+ - feature engineering, statistical test etc. Please summarize if you selected any statistical attribute of the data for tunning parameter of the
+   model in case of model building.
+
+**  Main visualization (3 points, 1 points each)
+  - Data Visualization activity(box plot, bar plot, violin plot, pairplot etc. to see statistical relationship between variable/target.)
+  - Describe any thing you find in the data after each visualization.
+  - How data exploration helped client/yourself. Like you did find data entry error, outlier, need for more feature collection/engineering etc.  
+
+** Modelling activity/evaluation/conclusion(4 points) 
+    + What kind of hypothesis you tested about predictors(independent variables).
+    + Model detail and What motivated you to use this model.
+    + Final Model parameter/coefficient interpretation.
+    + What is the current evaluation or finding of the project. is there some metric/KPI(key performance indicator) you can report?
+
+

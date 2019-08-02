@@ -1,0 +1,40 @@
+* Project Report
+
+
+Project requires submission of  .ipynb notebook  file/ python code  and a compiled report pdf/doc file in Github and Canvas.
+Final pdf file, should read like a data driven story/scientific study (data science). This is really important if you want to publish you story as 
+blog in the web. Check any research paper for over all content organization.
+
+For example, here is the link to a paper published last year in famous CVPR 2018 conference.
+
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVPR_2018_paper.pdf
+
+It is just for getting an idea about overall content organization.
+ 
+
+I'll highly recommend writing project report using Latex (https://www.sharelatex.com/ is  online latex editor and two people can work free online. If I am other collaborator I can comment in realtime).
+You can use word doc too.
+
+*This is what is done in general for a report or paper publication*
+
+1(2 point)- An abstract paragraph. It should start with on problem/objective of the project. Finish with how your capstone project distinctively solves the problem.
+
+2(2 point)- Literature reviews. Please include proper citation of book, journal, websites etc.(check web how citations are included in typical  paper. I can help with that)
+   How others have tried to slove this problem and your unique  novelty/contribution on solving the problem.
+
+3(4 point)- Detail of your approach. Discuss the detail of your model/architecture, exploratory data analysis (descriptive and visual) and novelty.
+
+4(1 point)- Dataset description.
+
+5(4 point)- Experiment detail. Plot of loss, accuracy, visualization and their explanation.
+
+6(2 point)- Error analysis. Can you explain where you model/visualization is not working properly and why?
+
+7(1 point)- Conclusion. Your overall take on the problem and solution and any thing you would like to explore further.
+
+
+
+
+
+
+
