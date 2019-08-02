@@ -52,7 +52,6 @@ You will be required to  submit a final report.
 ** Dates
 
 |---------------------------------------------------------------------------------------------------------+-----|
-|---------------------------------------------------------------------------------------------------------+-----|
 | final project presentation with live demo 15 minutes, 15 August in class                                | 30% |
 |---------------------------------------------------------------------------------------------------------+-----|
 | final project report, due 16 August, please refer to above final report format for submission guideline | 70% |
