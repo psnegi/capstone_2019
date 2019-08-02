@@ -12,7 +12,7 @@ http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVP
 It is just for getting an idea about overall content organization.
  
 
-I'll highly recommend writing project report using Latex (https://www.sharelatex.com/ is  online latex editor and two people can work free online. If I am other collaborator I can comment in realtime).
+Optionally, I'll  recommend writing project report using Latex (https://www.sharelatex.com/ is  online latex editor and two people can work free online. If I am other collaborator I can comment in realtime).
 You can use word doc too.
 
 *This is what is done in general for a report or paper publication*
