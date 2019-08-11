@@ -3,8 +3,8 @@
 *Please follow this rubric when creating your sildes*
 
 A 12 -15 slide presentation must contain following sections.*
-*I can look at presentation slides  pre presentation slides on (13 th August, Not graded).
-Final capstone project presentation(15 minutes, 15 th August)*
+*I can look at presentation slides  pre presentation slides on (12 th August, Not graded).
+Final capstone project presentation(15 minutes, 14 th August)*
 
 ** Capstone project research Questions (1 points)
   What real world problem you are trying to solve. *Can you explain it using some use case scenario*.
@@ -32,3 +32,4 @@ Final capstone project presentation(15 minutes, 15 th August)*
     + What is the current evaluation or finding of the project. is there some metric/KPI(key performance indicator) you can report?
 
 
+    
